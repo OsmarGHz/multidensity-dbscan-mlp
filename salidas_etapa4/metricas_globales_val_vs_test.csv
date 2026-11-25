@@ -1,0 +1,4 @@
+Particion,N_Instancias,F1_Macro,F1_Micro,Accuracy,Precision_Macro,Recall_Macro,AUC_ROC_OvR_Macro,AUC_ROC_OvR_Micro,Log_Loss
+Train (70%),7941,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0.00046
+Validation (15%),1702,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0007
+Test (15%),1702,0.99738,0.99824,0.99824,0.99869,0.99609,1.0,1.0,0.00342

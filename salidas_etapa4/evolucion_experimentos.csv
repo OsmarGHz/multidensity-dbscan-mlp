@@ -1,0 +1,4 @@
+Fase,Solver,Arquitectura,Activacion,Alpha,Parametros,F1_Macro,F1_Micro,AUC_ROC_OvR,Log_Loss
+1. Malla Gruesa (mejor en Val),lbfgs,"(10,)",tanh,0.1,214,1.0,1.0,1.0,0.0007
+2. Malla Fina (ganador en Val),lbfgs,"(10,)",tanh,0.1,214,1.0,1.0,1.0,0.0007
+3. Evaluación Final (Test 15%),lbfgs,"(10,)",tanh,0.1,214,0.99738,0.99824,1.0,0.00342

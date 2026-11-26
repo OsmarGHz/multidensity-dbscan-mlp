@@ -1,0 +1,4 @@
+Escenario,K,Validos,Ruido,Ruido_%,Silhouette_16D,Davies_Bouldin_16D,Calinski_Harabasz_16D,Tamanos_por_clase
+"A) 16D Std (1 etapa: eps=1.50, ms=32)",2,13141,402,2.97,0.5703,0.5136,3664.6,"[np.int64(12705), np.int64(436)]"
+"B) YJ + PCA-3 (1 etapa: eps=0.52, ms=30)",4,10822,2721,20.09,0.4263,0.8917,5616.7,"[np.int64(7024), np.int64(2414), np.int64(1265), np.int64(119)]"
+"C) Multi-densidad (2 etapas: eps1=1.50, eps2=0.60)",4,11345,2198,16.23,0.4212,0.8642,7340.0,"[np.int64(7747), np.int64(1885), np.int64(1277), np.int64(436)]"

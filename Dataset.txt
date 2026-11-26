@@ -1,0 +1,48 @@
+Data Set Name:
+Dataset
+
+Abstract:
+13,611 grains. A total of 16 features; 12 dimensions and 4 shape forms, were obtained from the grains.
+
+
+Data Type:
+Multivariate
+
+Task:
+Classification
+
+Attribute Type:
+Categorical
+Integer
+Real
+
+Format Type:
+Matrix
+
+Number of Instances (records in your data set): 
+13611
+
+Number of Attributes (fields within each record): 
+17
+
+Relevant Information:
+Different types of grains were used in this research, taking into account the features such as form, shape, type, and structure by the market situation. 
+
+Attribute Information:
+1.) Area (A): The area of a grain zone and the number of pixels within its boundaries.
+2.) Perimeter (P): Grain circumference is defined as the length of its border.
+3.) Major axis length (L): The distance between the ends of the longest line that can be drawn from a grain.
+4.) Minor axis length (l): The longest line that can be drawn from the grain while standing perpendicular to the main axis.
+5.) Aspect ratio (K): Defines the relationship between L and l.
+6.) Eccentricity (Ec): Eccentricity of the ellipse having the same moments as the region.
+7.) Convex area (C): Number of pixels in the smallest convex polygon that can contain the area of a grain seed.
+8.) Equivalent diameter (Ed): The diameter of a circle having the same area as a grain seed area.
+9.) Extent (Ex): The ratio of the pixels in the bounding box to the grain area.
+10.)Solidity (S): Also known as convexity. The ratio of the pixels in the convex shell to those found in grains.
+11.)Roundness (R): Calculated with the following formula: (4piA)/(P^2)
+12.)Compactness (CO): Measures the roundness of an object: Ed/L
+13.)ShapeFactor1 (SF1)
+14.)ShapeFactor2 (SF2)
+15.)ShapeFactor3 (SF3)
+16.)ShapeFactor4 (SF4)
+
